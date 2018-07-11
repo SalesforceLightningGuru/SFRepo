@@ -1,5 +1,5 @@
 public class test {
-    // Sanddep walia  SP
+    //Test class
     public static void main(){
         
     }
