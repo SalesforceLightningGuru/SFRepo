@@ -1,0 +1,692 @@
+[
+    [
+        "D:\\DX\\saasfocus\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531293947080,
+            "changeTime": 1531293947080,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531293947080,
+            "changeTime": 1531294325678,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531299175134,
+            "changeTime": 1531299175134,
+            "contentHash": "0e81225cae5023cb527845e216b4972b9141e411",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531294757251,
+            "changeTime": 1531294757251,
+            "contentHash": "f35d7df9043b8eb0f9d49a7ec1f11c6a974a0822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\classes\\test.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\classes\\test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1531295080417,
+            "changeTime": 1531295080417,
+            "contentHash": "06ed2aee36b8ad6be3071aa3d9cca3d42f33289d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\classes\\test.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\classes\\test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1531294757249,
+            "changeTime": 1531294757249,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\labels",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\labels",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531294757257,
+            "changeTime": 1531294757257,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 103,
+            "modifiedTime": 1531294757257,
+            "changeTime": 1531294757257,
+            "contentHash": "d523f4753539e51b0dcfc6e5771a30e255c81901",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531299191241,
+            "changeTime": 1531299191241,
+            "contentHash": "2b5fa90fe10b94edf810ac3703ad18f809474c2d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17732,
+            "modifiedTime": 1531294757279,
+            "changeTime": 1531294757279,
+            "contentHash": "d4cb83a70bb810978f37f7cb1c6072f7337cfdc2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Analytics Cloud Integration User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Analytics Cloud Integration User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1915,
+            "modifiedTime": 1531294757283,
+            "changeTime": 1531294757283,
+            "contentHash": "1093eb06616437e872671a8b5cabfd8fbd403599",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Analytics Cloud Security User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Analytics Cloud Security User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1572,
+            "modifiedTime": 1531294757285,
+            "changeTime": 1531294757285,
+            "contentHash": "ab7837f55677706d858da1df1c8f3d245d99fb42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Authenticated Website.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Authenticated Website.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1489,
+            "modifiedTime": 1531294757289,
+            "changeTime": 1531294757289,
+            "contentHash": "9393a6191d8672fd24d94dd6de3d6b53b57d4aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Chatter External User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Chatter External User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1592,
+            "modifiedTime": 1531294757299,
+            "changeTime": 1531294757299,
+            "contentHash": "d670c87be042f34da7f3a0faa2e434ed46b5e022",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Chatter Free User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Chatter Free User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2410,
+            "modifiedTime": 1531294757302,
+            "changeTime": 1531294757302,
+            "contentHash": "fab689ae6f48d84e972962d7ed791e5718987d70",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Chatter Moderator User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Chatter Moderator User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2524,
+            "modifiedTime": 1531294757306,
+            "changeTime": 1531294757306,
+            "contentHash": "99279c1fc56cf22bf8eec92f8f2f33d040bc4871",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Company Communities User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Company Communities User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4261,
+            "modifiedTime": 1531294757311,
+            "changeTime": 1531294757311,
+            "contentHash": "bc13d1fe94ed4f90f4b7812f8da01925079388d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\ContractManager.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\ContractManager.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5624,
+            "modifiedTime": 1531294757315,
+            "changeTime": 1531294757315,
+            "contentHash": "5682858af3be321fd876803015aebc10c4fafbd9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\CPQ Integration User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\CPQ Integration User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 749,
+            "modifiedTime": 1531294757296,
+            "changeTime": 1531294757296,
+            "contentHash": "441d3562ee26ac78717ea2d80e02774a5c42ee16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Cross Org Data Proxy User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Cross Org Data Proxy User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1255,
+            "modifiedTime": 1531294757318,
+            "changeTime": 1531294757318,
+            "contentHash": "2f07bca90cd0482838cb7dd675474d03a9b9219d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Community Login User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Community Login User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1945,
+            "modifiedTime": 1531294757347,
+            "changeTime": 1531294757347,
+            "contentHash": "1646588afb229098604c89316221688200370706",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Community Plus Login User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Community Plus Login User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2506,
+            "modifiedTime": 1531294757351,
+            "changeTime": 1531294757351,
+            "contentHash": "fd622a2aea4c26f43e0ec92de187ba3189bafabf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Community Plus User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Community Plus User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2500,
+            "modifiedTime": 1531294757356,
+            "changeTime": 1531294757356,
+            "contentHash": "ecae80e6dcdb49721875988ca75a8cea952a1051",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Community User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Community User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1939,
+            "modifiedTime": 1531294757360,
+            "changeTime": 1531294757360,
+            "contentHash": "75c0c380e94041419111f9421c61ad8d3a52b667",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Portal Manager Custom.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Portal Manager Custom.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2294,
+            "modifiedTime": 1531294757364,
+            "changeTime": 1531294757364,
+            "contentHash": "b3d461aad90692404f41dc573564cfeacff4833a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Portal Manager Standard.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Customer Portal Manager Standard.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2296,
+            "modifiedTime": 1531294757367,
+            "changeTime": 1531294757367,
+            "contentHash": "d9644b396109b53c6160778fbf3ac79ba0b03800",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\External Identity User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\External Identity User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1718,
+            "modifiedTime": 1531294757370,
+            "changeTime": 1531294757370,
+            "contentHash": "05ab4e9edb9d04e74e57bc429b10f090fbf9b966",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Force.com - App Subscription User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Force.com - App Subscription User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4594,
+            "modifiedTime": 1531294757384,
+            "changeTime": 1531294757384,
+            "contentHash": "8f692ce83e537346a94cbc9bb5cec3cbd0b6fc62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Force.com - Free User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Force.com - Free User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3775,
+            "modifiedTime": 1531294757391,
+            "changeTime": 1531294757391,
+            "contentHash": "56267cc43e80bd85f1638562d77985d5fdf96d1a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Gold Partner User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Gold Partner User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2619,
+            "modifiedTime": 1531294757395,
+            "changeTime": 1531294757395,
+            "contentHash": "75de15c9b0f5332d548849bc11b585a454bbd76f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\High Volume Customer Portal User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\High Volume Customer Portal User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1731,
+            "modifiedTime": 1531294757399,
+            "changeTime": 1531294757399,
+            "contentHash": "85157f055e35a91ec98e2abcf284a95e4d2c5616",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\HighVolumePortal.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\HighVolumePortal.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1614,
+            "modifiedTime": 1531294757402,
+            "changeTime": 1531294757402,
+            "contentHash": "75fb26558c74fc4bfae16461f6451b9153ea057a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Identity User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Identity User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2621,
+            "modifiedTime": 1531294757421,
+            "changeTime": 1531294757421,
+            "contentHash": "b756af6c473d1e6e7bb3ad0b5bc3b9b601eaa632",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\MarketingProfile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\MarketingProfile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5858,
+            "modifiedTime": 1531294757426,
+            "changeTime": 1531294757426,
+            "contentHash": "243a6585b57977bcc079ddc2c39cf2e9f2ae3566",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Partner App Subscription User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Partner App Subscription User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4590,
+            "modifiedTime": 1531294757429,
+            "changeTime": 1531294757429,
+            "contentHash": "a3b4f5a7c33b4b0dcb268374c2324ff664cf77be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Partner Community Login User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Partner Community Login User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2619,
+            "modifiedTime": 1531294757433,
+            "changeTime": 1531294757433,
+            "contentHash": "6743c86149969794138bfe37ee25503a39bbf593",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Partner Community User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Partner Community User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2613,
+            "modifiedTime": 1531294757436,
+            "changeTime": 1531294757436,
+            "contentHash": "0a58f8589244e5558edf71d231c2a02ce64de0c5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\PlatformPortal.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\PlatformPortal.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1592,
+            "modifiedTime": 1531294757439,
+            "changeTime": 1531294757439,
+            "contentHash": "89c5eeae1c461e478e1f14e195e69382731ab897",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\ReadOnly.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\ReadOnly.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4022,
+            "modifiedTime": 1531294757442,
+            "changeTime": 1531294757442,
+            "contentHash": "7d2cc6ee49eff90853ce70887299b9275b160ea5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Silver Partner User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Silver Partner User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2048,
+            "modifiedTime": 1531294757445,
+            "changeTime": 1531294757445,
+            "contentHash": "b3832c2d1fe0d75212d0255b331e7645d13222f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\SolutionManager.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\SolutionManager.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5506,
+            "modifiedTime": 1531294757450,
+            "changeTime": 1531294757450,
+            "contentHash": "3fdabe6d6d28222cf2bb72bd3979edbbb5c3d1e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Standard.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Standard.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5397,
+            "modifiedTime": 1531294757454,
+            "changeTime": 1531294757454,
+            "contentHash": "ae0cfd9041337b9f5fe0709e27cbde5039607e5b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\StandardAul.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\StandardAul.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4818,
+            "modifiedTime": 1531294757458,
+            "changeTime": 1531294757458,
+            "contentHash": "334fbd1a9efb72c6c4c216d23a1155bb83bbbd5b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Work.com Only User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\profiles\\Work.com Only User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4235,
+            "modifiedTime": 1531294757479,
+            "changeTime": 1531294757479,
+            "contentHash": "b1539edbe028fd8081d3d939d5c80433bd98aaac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus\\force-app\\main\\default\\src",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus\\force-app\\main\\default\\src",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531294888046,
+            "changeTime": 1531294888046,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DX\\saasfocus",
+        {
+            "state": "n",
+            "sourcePath": "D:\\DX\\saasfocus",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531294075592,
+            "changeTime": 1531294075592,
+            "contentHash": "0621953d12560c063db97f1f4822be73effbf19f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
